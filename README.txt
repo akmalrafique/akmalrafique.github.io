@@ -23,8 +23,9 @@ View the website here:
 2. Open `index.html` in a browser  
    **or**
 3. Visit the live website using the link above
-
+.
 ## 👤 Author
 **Akmal Rafique**  
 - LinkedIn: https://www.linkedin.com/in/akmalrafique/  
 - GitHub: https://github.com/akmalrafique
+
