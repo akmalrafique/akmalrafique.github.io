@@ -1,6 +1,6 @@
 
 # Personal Portfolio Website
-
+.
 This repository contains my personal portfolio website. It showcases my background, skills, and projects as a Data Engineering / Computer Science student.
 
 ## 🌐 Live Website
@@ -28,5 +28,6 @@ View the website here:
 **Akmal Rafique**  
 - LinkedIn: https://www.linkedin.com/in/akmalrafique/  
 - GitHub: https://github.com/akmalrafique
+
 
 
