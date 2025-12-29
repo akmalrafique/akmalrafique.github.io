@@ -6,7 +6,7 @@ This repository contains my personal portfolio website. It showcases my backgrou
 ## 🌐 Live Website
 View the website here:  
 👉 https://akmalrafique.github.io/
-
+.
 ## 📌 Features
 - Personal introduction
 - Project highlights
@@ -28,4 +28,5 @@ View the website here:
 **Akmal Rafique**  
 - LinkedIn: https://www.linkedin.com/in/akmalrafique/  
 - GitHub: https://github.com/akmalrafique
+
 
